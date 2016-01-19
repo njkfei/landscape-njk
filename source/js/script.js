@@ -56,7 +56,6 @@
           '<input class="article-share-input" value="' + url + '">',
           '<div class="article-share-links">',
             '<a href="http://service.weibo.com/share/share.php?appkey=1191991924&pic=http%3A%2F%2Fwiki.niejinkun.com%2FSharePic.png&ralateUid=1032111474&searchPic=true&url=' + encodedUrl + '" class="article-share-sina" target="_blank" title="微博"></a>',
-            '<a href="http://share.renren.com/share/buttonshare.do?link=' + encodedUrl + '" class="article-share-renren" target="_blank" title="人人"></a>',
             '<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + encodedUrl + '" class="article-share-qq" target="_blank" title="QQ空间"></a>',
             '<a href="http://qr.liantu.com/api.php?text=' + encodedUrl + '" class="article-share-wechat" target="_blank" title="微信"></a>',
             '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
